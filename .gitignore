@@ -1,0 +1,3 @@
+./proxmox/terraform.tfstate
+./proxmox/terraform.tfstate.backup
+./proxmox/terraform.tfvars
