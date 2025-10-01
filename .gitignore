@@ -5,3 +5,12 @@ proxmox/*.tfstate.*
 proxmox/*.tfstate.backup
 proxmox/*.tfstate.*.backup
 proxmox/terraform.tfvars
+
+
+aws/.terraform/
+aws/*.terraform.lock.hcl
+aws/*.tfstate
+aws/*.tfstate.*
+aws/*.tfstate.backup
+aws/*.tfstate.*.backup
+aws/terraform.tfvars
