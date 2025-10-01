@@ -3,6 +3,7 @@ variable "proxmox_datacenter" {
         api_token           = string
         api_secret           = string
         api_url          = string
+        username            = string
     })
 }
 

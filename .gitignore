@@ -1,6 +1,7 @@
 proxmox/.terraform/
 proxmox/*.terraform.lock.hcl
 proxmox/*.tfstate
+proxmox/*.tfstate.*
 proxmox/*.tfstate.backup
 proxmox/*.tfstate.*.backup
 proxmox/terraform.tfvars
